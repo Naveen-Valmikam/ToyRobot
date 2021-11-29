@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ToyRobot.Client/1.0.0": {
+        "dependencies": {
+          "ToyRobotSimulator.Core": "1.0.0"
+        },
+        "runtime": {
+          "ToyRobot.Client.dll": {}
+        }
+      },
+      "ToyRobotSimulator.Core/1.0.0": {
+        "runtime": {
+          "ToyRobotSimulator.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ToyRobot.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ToyRobotSimulator.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
