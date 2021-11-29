@@ -1,9 +1,0 @@
-/Users/NaveenValmikam/Projects/ToyRobot/ToyRobot.Core/bin/Debug/netcoreapp3.1/ToyRobot.Core.deps.json
-/Users/NaveenValmikam/Projects/ToyRobot/ToyRobot.Core/bin/Debug/netcoreapp3.1/ToyRobot.Core.dll
-/Users/NaveenValmikam/Projects/ToyRobot/ToyRobot.Core/bin/Debug/netcoreapp3.1/ToyRobot.Core.pdb
-/Users/NaveenValmikam/Projects/ToyRobot/ToyRobot.Core/obj/Debug/netcoreapp3.1/ToyRobot.Core.GeneratedMSBuildEditorConfig.editorconfig
-/Users/NaveenValmikam/Projects/ToyRobot/ToyRobot.Core/obj/Debug/netcoreapp3.1/ToyRobot.Core.AssemblyInfoInputs.cache
-/Users/NaveenValmikam/Projects/ToyRobot/ToyRobot.Core/obj/Debug/netcoreapp3.1/ToyRobot.Core.AssemblyInfo.cs
-/Users/NaveenValmikam/Projects/ToyRobot/ToyRobot.Core/obj/Debug/netcoreapp3.1/ToyRobot.Core.csproj.CoreCompileInputs.cache
-/Users/NaveenValmikam/Projects/ToyRobot/ToyRobot.Core/obj/Debug/netcoreapp3.1/ToyRobot.Core.dll
-/Users/NaveenValmikam/Projects/ToyRobot/ToyRobot.Core/obj/Debug/netcoreapp3.1/ToyRobot.Core.pdb
