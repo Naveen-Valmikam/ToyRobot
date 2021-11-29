@@ -1,0 +1,10 @@
+/Users/NaveenValmikam/Projects/ToyRobot/ToyRobot.Core/bin/Release/netcoreapp3.1/ToyRobotSimulator.Core.deps.json
+/Users/NaveenValmikam/Projects/ToyRobot/ToyRobot.Core/bin/Release/netcoreapp3.1/ToyRobotSimulator.Core.dll
+/Users/NaveenValmikam/Projects/ToyRobot/ToyRobot.Core/bin/Release/netcoreapp3.1/ToyRobotSimulator.Core.pdb
+/Users/NaveenValmikam/Projects/ToyRobot/ToyRobot.Core/obj/Release/netcoreapp3.1/ToyRobotSimulator.Core.csproj.AssemblyReference.cache
+/Users/NaveenValmikam/Projects/ToyRobot/ToyRobot.Core/obj/Release/netcoreapp3.1/ToyRobotSimulator.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/NaveenValmikam/Projects/ToyRobot/ToyRobot.Core/obj/Release/netcoreapp3.1/ToyRobotSimulator.Core.AssemblyInfoInputs.cache
+/Users/NaveenValmikam/Projects/ToyRobot/ToyRobot.Core/obj/Release/netcoreapp3.1/ToyRobotSimulator.Core.AssemblyInfo.cs
+/Users/NaveenValmikam/Projects/ToyRobot/ToyRobot.Core/obj/Release/netcoreapp3.1/ToyRobotSimulator.Core.csproj.CoreCompileInputs.cache
+/Users/NaveenValmikam/Projects/ToyRobot/ToyRobot.Core/obj/Release/netcoreapp3.1/ToyRobotSimulator.Core.dll
+/Users/NaveenValmikam/Projects/ToyRobot/ToyRobot.Core/obj/Release/netcoreapp3.1/ToyRobotSimulator.Core.pdb
