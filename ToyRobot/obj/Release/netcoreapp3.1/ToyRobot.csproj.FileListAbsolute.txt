@@ -1,0 +1,12 @@
+/Users/NaveenValmikam/Projects/ToyRobot/ToyRobot/bin/Release/netcoreapp3.1/ToyRobot.deps.json
+/Users/NaveenValmikam/Projects/ToyRobot/ToyRobot/bin/Release/netcoreapp3.1/ToyRobot.runtimeconfig.json
+/Users/NaveenValmikam/Projects/ToyRobot/ToyRobot/bin/Release/netcoreapp3.1/ToyRobot.runtimeconfig.dev.json
+/Users/NaveenValmikam/Projects/ToyRobot/ToyRobot/bin/Release/netcoreapp3.1/ToyRobot.dll
+/Users/NaveenValmikam/Projects/ToyRobot/ToyRobot/bin/Release/netcoreapp3.1/ToyRobot.pdb
+/Users/NaveenValmikam/Projects/ToyRobot/ToyRobot/obj/Release/netcoreapp3.1/ToyRobot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/NaveenValmikam/Projects/ToyRobot/ToyRobot/obj/Release/netcoreapp3.1/ToyRobot.AssemblyInfoInputs.cache
+/Users/NaveenValmikam/Projects/ToyRobot/ToyRobot/obj/Release/netcoreapp3.1/ToyRobot.AssemblyInfo.cs
+/Users/NaveenValmikam/Projects/ToyRobot/ToyRobot/obj/Release/netcoreapp3.1/ToyRobot.csproj.CoreCompileInputs.cache
+/Users/NaveenValmikam/Projects/ToyRobot/ToyRobot/obj/Release/netcoreapp3.1/ToyRobot.dll
+/Users/NaveenValmikam/Projects/ToyRobot/ToyRobot/obj/Release/netcoreapp3.1/ToyRobot.pdb
+/Users/NaveenValmikam/Projects/ToyRobot/ToyRobot/obj/Release/netcoreapp3.1/ToyRobot.genruntimeconfig.cache
